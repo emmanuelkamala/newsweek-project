@@ -3,4 +3,4 @@ This is a clone creation of the newsweek.com homepage. The idea behind the proje
 # Contributor
 Emmanuel J. Kamala (<a href="https://github.com/emmanuelkamala">@emmanuelkamala</a>)
 # Live Version
-<a href="https://emmanuelkamala.github.io/newsweek-project/">Live Version</a>
+<a href="https://emmanuelkamala.github.io/newsweek-project/">Live Link</a>
